@@ -3,10 +3,11 @@ class Solution:
 		#Code here
 		Intervals.sort()
 		ans = []
+		ans.append(Intervals[0])
 		for i in range(len(Intervals)):
-		    if not ans:
-		        ans.append(Intervals[i])
-		    elif Intervals[i][0]<=ans[-1][1]:
+		  #  if not ans:
+		  #      ans.append(Intervals[i])
+		    if Intervals[i][0]<=ans[-1][1]:
 		        ans[-1][1]=max(ans[-1][1], Intervals[i][1])
 		    else:
 		        ans.append(Intervals[i])
