@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arunesh-Tiwari/DSA/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/Arunesh-Tiwari/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arunesh-Tiwari/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0985-bag-of-tokens](https://github.com/Arunesh-Tiwari/DSA/tree/master/0985-bag-of-tokens) |
 ## Binary Search
@@ -32,4 +33,16 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arunesh-Tiwari/DSA/tree/master/0011-container-with-most-water) |
 | [0985-bag-of-tokens](https://github.com/Arunesh-Tiwari/DSA/tree/master/0985-bag-of-tokens) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Arunesh-Tiwari/DSA/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Arunesh-Tiwari/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Arunesh-Tiwari/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
