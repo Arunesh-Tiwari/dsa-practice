@@ -8,6 +8,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arunesh-Tiwari/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0985-bag-of-tokens](https://github.com/Arunesh-Tiwari/DSA/tree/master/0985-bag-of-tokens) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arunesh-Tiwari/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Sorting
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
