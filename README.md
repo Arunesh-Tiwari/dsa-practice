@@ -1,3 +1,23 @@
+# 📚 DSA Practice Repository
+
+![DSA](https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif)
+
+Welcome to my Data Structures and Algorithms (DSA) practice repository! This repo is where I sharpen my problem-solving skills, tackle challenging algorithms, and continuously improve my coding prowess.
+
+## 🚀 About the Repository
+
+This repository contains solutions to a variety of DSA problems. The solutions are organized by topics, and each topic has its own folder.
+
+### 🛠️ Features
+
+- **Comprehensive DSA Problems**: Covers a wide range of topics from arrays, linked lists, and trees to dynamic programming, graph theory, and beyond.
+- **Efficient Solutions**: Focuses on optimizing time and space complexity.
+- **Clean Code**: Well-documented and easy-to-understand code solutions.
+
+### 😅 Struggles & Wins
+
+There have been moments of frustration, but nothing beats the satisfaction of finally cracking a tough problem! 💪
+
 # Leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
