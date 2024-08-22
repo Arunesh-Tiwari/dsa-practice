@@ -84,4 +84,8 @@ There have been moments of frustration, but nothing beats the satisfaction of fi
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arunesh-Tiwari/DSA/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Arunesh-Tiwari/dsa-practice/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
