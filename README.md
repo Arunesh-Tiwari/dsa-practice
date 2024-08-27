@@ -37,6 +37,7 @@ There have been moments of frustration, but nothing beats the satisfaction of fi
 | ------- |
 | [0985-bag-of-tokens](https://github.com/Arunesh-Tiwari/DSA/tree/master/0985-bag-of-tokens) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Arunesh-Tiwari/DSA/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2887-sort-vowels-in-a-string](https://github.com/Arunesh-Tiwari/dsa-practice/tree/master/2887-sort-vowels-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -88,4 +89,8 @@ There have been moments of frustration, but nothing beats the satisfaction of fi
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Arunesh-Tiwari/dsa-practice/tree/master/0476-number-complement) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Arunesh-Tiwari/dsa-practice/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
